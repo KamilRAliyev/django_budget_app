@@ -1,0 +1,8 @@
+
+budget_project/.venv/*
+budget_project/.idea/*
+budget_project/.vscode/*
+budget_project/__pycache__/*
+budget_project/db.sqlite3
+budget_project/budget/__pycache__/*
+budget_project/migrations/*
